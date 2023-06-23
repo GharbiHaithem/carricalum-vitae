@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3228d370.css",
+    "main.js": "/static/js/main.0e21db03.js",
+    "static/js/703.3b3a31df.chunk.js": "/static/js/703.3b3a31df.chunk.js",
+    "static/js/9.5b98e8fd.chunk.js": "/static/js/9.5b98e8fd.chunk.js",
+    "static/media/Screenshot_2022-02-18-03-58-28-546_com.google.android.apps.photos-removebg-preview.png": "/static/media/Screenshot_2022-02-18-03-58-28-546_com.google.android.apps.photos-removebg-preview.3b11ad7acf4346aba5f9.png",
+    "static/media/Diploma-Background-PNG.png": "/static/media/Diploma-Background-PNG.a5bac10ac1d7568435db.png",
+    "index.html": "/index.html",
+    "main.3228d370.css.map": "/static/css/main.3228d370.css.map",
+    "main.0e21db03.js.map": "/static/js/main.0e21db03.js.map",
+    "703.3b3a31df.chunk.js.map": "/static/js/703.3b3a31df.chunk.js.map",
+    "9.5b98e8fd.chunk.js.map": "/static/js/9.5b98e8fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3228d370.css",
+    "static/js/main.0e21db03.js"
+  ]
+}
